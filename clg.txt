@@ -1,0 +1,22 @@
+ <div class="form">
+                <h4>Lets Connect</h4>
+                <p>Integer at lorem eget diam facilisis lacinia a c id massa.</p>
+                <div class="form-row">
+                    <input type="text" placeholder="Enter Your Name">
+                    <input type="text" placeholder="Email">
+                </div>
+                <div class="form-column">
+                    <input type=""placeholder="subject">
+                    
+                </div>
+           
+                <div class="form-column">
+                    <textarea name="" id="" cols="30" rows="8" placeholder="How can we help!"></textarea>
+                    
+                </div>
+    
+                <div class="form-column">
+                    <button>Send Message</button>
+                    
+                </div>
+            </div>
